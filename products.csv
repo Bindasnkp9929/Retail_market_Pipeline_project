@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,500.00
+P002,Headphones,Electronics,300.00
+P003,Coffee Maker,Appliances,400.00
+P004,Office Chair,Furniture,500.00
+P005,Desk Lamp,Furniture,150.00
+P006,Smartphone,Electronics,800.00
+P007,Washing Machine,Appliances,700.00
+P008,Study Table,Furniture,350.00
+P009,Microwave Oven,Appliances,250.00
+P010,Bluetooth Speaker,Electronics,200.00
+P011,Refrigerator,Appliances,900.00
+P012,Keyboard,Electronics,100.00
+P013,Mouse,Electronics,80.00
+P014,Air Conditioner,Appliances,1200.00
+P015,Bookshelf,Furniture,450.00
+P016,Tablet,Electronics,600.00
+P017,Printer,Electronics,350.00
+P018,Sofa,Furniture,1000.00
+P019,Vacuum Cleaner,Appliances,550.00
+P020,Ceiling Fan,Appliances,300.00
